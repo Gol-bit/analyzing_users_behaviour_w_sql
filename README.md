@@ -1,4 +1,4 @@
-# Digital Product User Analytics wWith SQL
+# Digital Product User Analytics with SQL
 
 Overview
 
